@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470989379177",
+    "project_id": "demotaxi-f0034",
+    "storage_bucket": "demotaxi-f0034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470989379177:android:a137dc796d9598cfaab4f8",
+        "android_client_info": {
+          "package_name": "com.demo.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470989379177-2r5ifkuqr257ruk0od1mvrqn6nr70voh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.taxi",
+            "certificate_hash": "9c26522b64d665da33562a6c22974663e9a7c77c"
+          }
+        },
+        {
+          "client_id": "470989379177-kphim5vo7r9p288p0cjmass88eheiqp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsotZ0RiDIEX-orZu1QQWvrP3RUcFHzbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470989379177-kphim5vo7r9p288p0cjmass88eheiqp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
