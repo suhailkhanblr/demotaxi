@@ -37,7 +37,7 @@ var audio = 'audio/notification_sound.mp3';
 bool internet = true;
 
 //base url
-String url = 'your base url'; //please add '/' at the end of url as 'yourwebsite.com/'
+String url = 'https://tagxi-server.ondemandappz.com/'; //please add '/' at the end of url as 'yourwebsite.com/'
 String mapkey = 'map key';
 
 //check internet connection
